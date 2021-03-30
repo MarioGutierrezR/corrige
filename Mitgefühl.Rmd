@@ -1,0 +1,82 @@
+---
+title: "Mitgefühl"
+author: "Mario Gutiérrez"
+date: "25/3/2021"
+output: 
+  html_document:
+        toc: true
+        toc_depth: 3
+        toc_float: true
+        number_section: true
+        theme: "cosmo"
+        highlight: "tango"
+---
+# **Wir alle gegen Hass**  
+
+Ich möchte über ein Thema sprechen. Es geht nicht um das Thema über den Lohn von UNAM Professoren, sondern über ein Thema, mit dem wir auch einfühlsam sein müssen.  
+```{r, echo=FALSE, out.width="30%", fig.align='center'}
+
+url1 <- c("https://media.tenor.com/images/4311d19b0a8444ae0511bc748484107a/tenor.gif")
+knitr::include_graphics(url1)
+
+```
+
+
+## **Transmenschen**  
+
+Es ist wichtig zu erklären, dass ich kein Trans Menschen und kein Experte bin. Trotzdem finde ich es wichtig, darüber zu sprechen.  
+
+Ein Transmenschen ist eine Person, die nicht ihrer Geschlechtsidentität von ihrer Geburt zustimmen. Das heißt, bei der Geburt eine Person als einen Mann definiert wurde, aber sie fühlt sich wie eine Frau. Oder villeicht eine Person wurde bei der Geburt als Frau definiert, aber er fühlt sich wie einen Mann.  
+
+Da das Geschlecht ein soziales Konstrukt ist, ist es möglich und es ist keine Krankheit.  
+
+```{r, echo=FALSE, out.width="40%", fig.align='center'}
+
+url1 <- c("https://i2.wp.com/habqueerbern.ch/wp-content/uploads/2020/08/transrechte.jpg?resize=1024%2C576&ssl=1")
+knitr::include_graphics(url1)
+
+```
+
+
+## **Das Argument ,,Es ist grundlegende Biologie"**  
+
+Nachdem das Thema von Transmenschen berühmt geworden war, haben viele Leute angefangen, Biologie und Wissenchaft zu benutzen. Sie sagen, dass Transmenschen verrückt sind, weil sie ihren biologieschen Sex ändern wollen.  
+
+Wir müssen uns merken, dass das Geschlecht und der Sex verschiedene Sachen sind. Außerdem ist der biologiesche Sex auch nicht binär. Es gibt viele Situationen, die Sex ein sehr komplizierter Prozess machen. Was wir alle wissen müssen ist, dass XX Chromosomen nicht immer von einer Freu sind, und XY Chromosomen sind nicht immer von einem Mann.  
+
+Seit Wissenschaftler diese Situation realisiert haben, haben sie die Leute gebeten, Biologie nicht zu nutzen.  
+
+Hier ist ein [TikTok](https://twitter.com/lab_shenanigans/status/1367181974566240258?s=20) von einer Wissenschaftlerin, die das auf eine kurze und lustige Art erklärt.  
+
+```{r, echo=FALSE, out.width="50%", fig.align='center'}
+
+url1 <- c("https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2017/08/25/16/12/beingtransgender-spectrum.jpg")
+knitr::include_graphics(url1)
+
+```
+
+
+## **Werden Transmenschen diskriminiert?**  
+
+Ja, sie können manchmal keinen Job oder kein Haus bekommen. Viele Transmenschen leider begehen Selbstmord. Hier stehen Daten von der mexikanischen Regierung:
+
+```{r, echo=FALSE, out.width="40%", fig.align='center'}
+
+url1 <- c("http://data.copred.cdmx.gob.mx/wp-content/uploads/2014/11/plg10.gif","http://data.copred.cdmx.gob.mx/wp-content/uploads/2014/11/plg11.gif")
+knitr::include_graphics(url1)
+
+```
+
+## **Was soll ich tun?**  
+
+Wir müssen akzeptieren und respektieren. Du kannst auch bei [CONAPRED](https://www.conapred.org.mx/) Information bekommen.  
+```{r, echo=FALSE, out.width="50%", fig.align='center'}
+
+url1 <- c("https://www.americasquarterly.org/wp-content/uploads/2020/05/GettyImages-1159092851.jpg")
+knitr::include_graphics(url1)
+
+```
+
+
+**Transfrauen sind Frauen und Transmänner sind Männer.**
+
